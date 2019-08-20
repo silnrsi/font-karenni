@@ -1,15 +1,15 @@
 FONTLOG 
-Harmattan font
+Karenni font
 =================
 
-This file provides detailed information on the Harmattan font software. 
-This information should be distributed along with the Harmattan fonts 
+This file provides detailed information on the Karenni font software. 
+This information should be distributed along with the Karenni fonts 
 and any derivative works.
 
 Basic Font Information
 ----------------------
 
-Kyephogyi is a font covering the Kayah Li Unicode range.
+Karenni is a font covering the Kayah Li Unicode range.
 
 
 ChangeLog
@@ -18,9 +18,8 @@ ChangeLog
 
 2016-04 Karenni 1.2
 
-2019-07-15 Kyephogyi 0.2
-  - Rename Karenni to Kyephogyi as is used already.
-  - Bring under the OFL.
+2019-08-13 Karenni 1.3
+  - Released under the SIL Open Font License (OFL)
 
 
 Acknowledgements
