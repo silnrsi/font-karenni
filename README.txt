@@ -1,6 +1,6 @@
 # Karenni
 
-Karenni is a font for the Kayah Li Uncode range, designed by Khu Oo Reh. It does not contain Latin glyphs.
+Karenni is a font for the Kayah Li Unicode range, designed by Khu Oo Reh. It does not contain Latin glyphs.
 
 For copyright and licensing - including any Reserved Font Names - see OFL.txt.
 
