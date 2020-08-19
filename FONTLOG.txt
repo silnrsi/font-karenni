@@ -16,10 +16,10 @@ ChangeLog
 ---------
 (This should list both major and minor changes, most recent first.)
 
-2016-04 Karenni 1.2
-
 2019-08-13 Karenni 1.3
   - Released under the SIL Open Font License (OFL)
+
+2016-04 Karenni 1.2
 
 
 Acknowledgements
@@ -28,7 +28,7 @@ Acknowledgements
 be sure to add your name (N), email (E), web-address (W) and description
 (D). This list is sorted by last name in alphabetical order.)
 
-N: Kuh Oo Reh
+N: Khu Oo Reh
 E: mawlibu@gmail.com
 D: Original Designer
 

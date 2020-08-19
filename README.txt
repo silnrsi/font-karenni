@@ -1,4 +1,3 @@
-
 Thank you for your interest in the Karenni font.
 We hope you find it useful!
 
@@ -29,3 +28,13 @@ install the appropriate keyboard and input method for the characters of the
 language you wish to use. You will need to install the appropriate keyboard and 
 input method for the characters of the language you wish to use. 
 
+=======
+# Karenni
+
+Karenni is a font for the Kayah Li Unicode range, designed by Khu Oo Reh. It does not contain Latin glyphs.
+
+For copyright and licensing - including any Reserved Font Names - see OFL.txt.
+
+For practical information about using, modifying and redistributing this font see OFL-FAQ.txt.
+
+For more details about this project, including changelog and acknowledgements see FONTLOG.txt.
